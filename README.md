@@ -17,6 +17,8 @@ Uma aplicação de agenda de contatos desenvolvida em PHP com autenticação de 
 - **Linguagem**: PHP
 - **Banco de dados**: MySQL
 - **Arquitetura**: MVC (Model-View-Controller)
+- **Estilização**: Bootstrap
+_Não foram utilizados framework (Ex.: Laravel)_
 
 ## Capturas de Tela
 
