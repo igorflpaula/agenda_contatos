@@ -1,6 +1,6 @@
 # Agenda de Contatos 📇
 
-Uma aplicação de agenda de contatos desenvolvida em PHP com autenticação de login. Uma vez logado, o usuário pode visualizar, adicionar, editar e excluir contatos, além de editar seus próprios dados de perfil.
+Uma aplicação de agenda de contatos desenvolvida em PHP (sem uso de Laravel) com autenticação de login. Uma vez logado, o usuário pode visualizar, adicionar, editar e excluir contatos, além de editar seus próprios dados de perfil.
 
 ## Funcionalidades
 
@@ -18,7 +18,6 @@ Uma aplicação de agenda de contatos desenvolvida em PHP com autenticação de 
 - **Banco de dados**: MySQL
 - **Arquitetura**: MVC (Model-View-Controller)
 - **Estilização**: Bootstrap
-_Não foram utilizados framework (Ex.: Laravel)_
 
 ## Capturas de Tela
 
